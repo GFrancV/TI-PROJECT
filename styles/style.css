@@ -1,0 +1,42 @@
+.title {
+  color: #13a1bd;
+  font-weight: normal;
+  font-size: 40px;
+  font-family: verdana;
+}
+
+.subtitle {
+  font-family: verdana;
+  color: #333;
+  text-decoration: underline;
+}
+
+.paragraph {
+  color: black;
+  font-family: verdana;
+  font-size: normal;
+}
+
+.responsive {
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  width: 100%;
+  max-width: 275px;
+}
+
+.responsive2{
+  margin-left: 50px;
+  width: 100%;
+  max-width: 1000px;
+
+}
+
+.responsiveT{
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  width: 100%;
+  max-width: 120px;
+}
+
